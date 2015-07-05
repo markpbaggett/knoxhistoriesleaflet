@@ -1,0 +1,661 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harry Pascall's Eating House",
+        "show_on_map": true,
+        "popupContent": "Harry Pascall's Eating House",
+        "building_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.92010807991028,
+              35.9658153874857
+            ],
+            [
+              -83.92060160636902,
+              35.96562000688113
+            ],
+            [
+              -83.92057478427887,
+              35.96557658890335
+            ],
+            [
+              -83.92008125782013,
+              35.965767627827
+            ],
+            [
+              -83.92010807991028,
+              35.9658153874857
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Karnes Harness",
+        "show_on_map": true,
+        "popupContent": "Howard Karnes Harness",
+        "building_type": "home/hardware"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.9200758934021,
+              35.965771969615346
+            ],
+            [
+              -83.92051577568054,
+              35.96559395609734
+            ],
+            [
+              -83.92048358917236,
+              35.96554185450393
+            ],
+            [
+              -83.92003834247589,
+              35.96571118455676
+            ],
+            [
+              -83.9200758934021,
+              35.965771969615346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RG Mullins Pool Hall",
+        "show_on_map": "true",
+        "popupContent": "RG Mullins Pool Hall",
+        "building_type": "debauchery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.92004370689392,
+              35.96571552634822
+            ],
+            [
+              -83.92048358917236,
+              35.96553751270294
+            ],
+            [
+              -83.92045140266418,
+              35.96547672746387
+            ],
+            [
+              -83.9200061559677,
+              35.965641715861075
+            ],
+            [
+              -83.92004370689392,
+              35.96571552634822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JF Walker Stoves",
+        "show_on_map": "true",
+        "popupContent": "JF Walker Stoves",
+        "building_type": "home/hardware"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.9200061559677,
+              35.965641715861075
+            ],
+            [
+              -83.92044603824615,
+              35.96547672746387
+            ],
+            [
+              -83.92041385173798,
+              35.96542028398568
+            ],
+            [
+              -83.91996324062347,
+              35.96558093070221
+            ],
+            [
+              -83.9200061559677,
+              35.965641715861075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yule Jno Produce",
+        "show_on_map": "true",
+        "popupContent": "Yule Jno Produce",
+        "building_type": "grocery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91995787620544,
+              35.96557658890335
+            ],
+            [
+              -83.92042458057404,
+              35.965411600370075
+            ],
+            [
+              -83.92039239406586,
+              35.96534647322257
+            ],
+            [
+              -83.91992568969725,
+              35.965515803694366
+            ],
+            [
+              -83.91995787620544,
+              35.96557658890335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vacant",
+        "show_on_map": "true",
+        "popupContent": "Vacant",
+        "building_type": "vacant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.9199310541153,
+              35.96551146189192
+            ],
+            [
+              -83.92016172409058,
+              35.96542462579311
+            ],
+            [
+              -83.92012417316437,
+              35.96535949865637
+            ],
+            [
+              -83.91988277435303,
+              35.965441993020534
+            ],
+            [
+              -83.9199310541153,
+              35.96551146189192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market Hardware + Harness",
+        "show_on_map": "true",
+        "popupContent": "Market Hardware + Harness",
+        "building_type": "home/hardware"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.919877409935,
+              35.96543765121404
+            ],
+            [
+              -83.92015635967255,
+              35.96534213141081
+            ],
+            [
+              -83.92010807991028,
+              35.96526397875861
+            ],
+            [
+              -83.91983449459076,
+              35.9653681822777
+            ],
+            [
+              -83.919877409935,
+              35.96543765121404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaiser Bros. Fruits",
+        "show_on_map": "true",
+        "popupContent": "Kaiser Bros. Fruits",
+        "building_type": "grocery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91982913017273,
+              35.965372524088004
+            ],
+            [
+              -83.92025828361511,
+              35.96519885148932
+            ],
+            [
+              -83.92029047012329,
+              35.96523792785731
+            ],
+            [
+              -83.92035484313965,
+              35.96521187694747
+            ],
+            [
+              -83.92030119895935,
+              35.96512938234288
+            ],
+            [
+              -83.91980767250061,
+              35.96531608053534
+            ],
+            [
+              -83.91982913017273,
+              35.965372524088004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wm. McIntyre Billiards",
+        "show_on_map": "true",
+        "popupContent": "Wm McIntryre Billiards",
+        "building_type": "debauchery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91980230808258,
+              35.96531173872192
+            ],
+            [
+              -83.92030656337737,
+              35.96512504051921
+            ],
+            [
+              -83.92026364803314,
+              35.9650642549626
+            ],
+            [
+              -83.9197701215744,
+              35.965250953309024
+            ],
+            [
+              -83.91980230808258,
+              35.96531173872192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East TN Packing Co.",
+        "show_on_map": "true",
+        "popupContent": "East TN Packing Co.",
+        "building_type": "grocery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91977548599243,
+              35.96524661149203
+            ],
+            [
+              -83.92021000385284,
+              35.96508162226925
+            ],
+            [
+              -83.92017781734467,
+              35.96502083667924
+            ],
+            [
+              -83.9197325706482,
+              35.965190167849364
+            ],
+            [
+              -83.91977548599243,
+              35.96524661149203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDaniel + Ault Grocer",
+        "show_on_map": "true",
+        "popupContent": "McDaniel + Ault Grocer",
+        "building_type": "grocery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91972720623016,
+              35.965185826029
+            ],
+            [
+              -83.92017781734467,
+              35.96501215301969
+            ],
+            [
+              -83.92014563083647,
+              35.96495570920942
+            ],
+            [
+              -83.91968965530396,
+              35.965116356871114
+            ],
+            [
+              -83.91972720623016,
+              35.965185826029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NR Hall Clothing",
+        "show_on_map": "true",
+        "popupContent": "NR Hall Clothing",
+        "building_type": "clothing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91968429088591,
+              35.9651076732221
+            ],
+            [
+              -83.92013490200043,
+              35.96495570920942
+            ],
+            [
+              -83.92010807991028,
+              35.96488623984907
+            ],
+            [
+              -83.91965210437775,
+              35.96504688765211
+            ],
+            [
+              -83.91968429088591,
+              35.9651076732221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biddle Bros.",
+        "show_on_map": "true",
+        "popupContent": "Biddle Bros.",
+        "building_type": "home/hardware"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91964673995972,
+              35.965042545823884
+            ],
+            [
+              -83.92010807991028,
+              35.96488623984907
+            ],
+            [
+              -83.9200758934021,
+              35.96482111226825
+            ],
+            [
+              -83.91960918903351,
+              35.964990443866675
+            ],
+            [
+              -83.91964673995972,
+              35.965042545823884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regal Mgf. Clothing",
+        "show_on_map": "true",
+        "popupContent": "Regal Mgf. Clothing",
+        "building_type": "clothing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91960918903351,
+              35.96498610203535
+            ],
+            [
+              -83.9200758934021,
+              35.9648167704276
+            ],
+            [
+              -83.92003834247589,
+              35.96476032647767
+            ],
+            [
+              -83.91957700252533,
+              35.9649253163718
+            ],
+            [
+              -83.91960918903351,
+              35.96498610203535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CW Henderson Produce",
+        "show_on_map": "true",
+        "popupContent": "CW Henderson Produce",
+        "building_type": "grocery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91958236694335,
+              35.9649253163718
+            ],
+            [
+              -83.92003834247589,
+              35.96476032647767
+            ],
+            [
+              -83.92001152038574,
+              35.964703882487385
+            ],
+            [
+              -83.91954481601715,
+              35.96486018882318
+            ],
+            [
+              -83.91958236694335,
+              35.9649253163718
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AF Ford Barber / RW LaRue Cigars",
+        "show_on_map": "true",
+        "popupContent": "AF Ford Barber / RW LaRue Cigars",
+        "building_type": "debauchery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91954481601715,
+              35.96486018882318
+            ],
+            [
+              -83.92003834247589,
+              35.964690856945445
+            ],
+            [
+              -83.9200061559677,
+              35.964625729203455
+            ],
+            [
+              -83.91950726509094,
+              35.96480808674564
+            ],
+            [
+              -83.91954481601715,
+              35.96486018882318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wm. Hays Restaurant",
+        "show_on_map": "true",
+        "popupContent": "Wm. Hays Restaurant",
+        "building_type": "restaurant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91951262950897,
+              35.96480374490429
+            ],
+            [
+              -83.91985058784485,
+              35.964686515097654
+            ],
+            [
+              -83.91981303691864,
+              35.9646300710546
+            ],
+            [
+              -83.91946971416473,
+              35.96474730094504
+            ],
+            [
+              -83.91951262950897,
+              35.96480374490429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Kern Bakery + Confectioners",
+        "show_on_map": "true",
+        "popupContent": "Peter Kern Bakery + Confectioners",
+        "building_type": "grocery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.91947507858276,
+              35.96474730094504
+            ],
+            [
+              -83.91997396945953,
+              35.96457362697121
+            ],
+            [
+              -83.9199149608612,
+              35.96445639682294
+            ],
+            [
+              -83.9194107055664,
+              35.96464743845677
+            ],
+            [
+              -83.91947507858276,
+              35.96474730094504
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
